@@ -361,7 +361,7 @@ The main tasks for this exercise are as follows:
  
 1. In the Azure portal, navigate to the **az3000802-lb** blade and note the value of the **Public IP address** entry.
 
-1. On the lab computer, from the Remote Desktop session to **az3000801-vm0**, run the following to start a Remote Desktop session to **az3000802-vm0**.
+1. On the lab computer, from the **Remote Desktop session** to **az3000801-vm0**, run the following to start a Remote Desktop session to **az3000802-vm0**.
 
    ```
    mstsc /v:az3000802-vm0
